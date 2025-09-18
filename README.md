@@ -1,6 +1,7 @@
 # Methods
 ## Model Architecture
-<img width="1358" height="804" alt="UNET" src="https://github.com/user-attachments/assets/e3c3f573-61a5-4471-90fd-e76763548d40" />
+<img width="1096" height="804" alt="UNET" src="https://github.com/user-attachments/assets/d0291d32-6591-4ff2-85b6-b17e99b027dd" />
+
 
 ## Convolution Block and Identity Block
 <img width="912" height="382" alt="UNET1" src="https://github.com/user-attachments/assets/74cfba7e-6ad9-4c35-ba87-6caa6ab298b9" />
